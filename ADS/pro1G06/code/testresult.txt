@@ -1,0 +1,6 @@
+The shortest distance from 17165 to 4726 is 526929
+The shortest distance from 30148 to 15851 is 153154
+The shortest distance from 6960 to 32356 is 157615
+The shortest distance from 20268 to 27482 is 87076
+The shortest distance from 12848 to 30396 is 277229
+Whole run time by second is 0.221000
